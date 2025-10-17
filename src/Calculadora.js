@@ -82,7 +82,7 @@ const Contador = () => {
 
   return (
     <div>
-      <h1>Calculadora con IFs</h1>
+      
 
       {/* Pantalla principal donde se ve el resutado */}
       <div className="caja">{numeroActual}</div>
